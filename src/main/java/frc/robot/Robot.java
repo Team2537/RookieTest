@@ -35,6 +35,8 @@ public class Robot extends TimedRobot {
     SmartDashboard.putData("Auto choices", m_chooser);
     System.out.println("Hi guys this is how you do git - Daniel");
     System.out.println("This is for a second commit");
+    System.out.println("Spooky szn");
+    
   }
 
   /**
